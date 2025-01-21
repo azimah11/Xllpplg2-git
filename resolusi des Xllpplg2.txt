@@ -1,8 +1,9 @@
 Ini adalah resolusi Xll pplg 2 untuk semester genap 
 
-- Registrasi API themoviedb.org
-- Registrasi github.com
-- Registrasi gitlab.com
 - Praktik github
     * Membuat repositori
     * Membuat file resolusi-xiipplg2.txt
+- Mengedit file 
+ - Menghapus registrasi themoviedb.org
+ - Menghapus registrasi github.com
+ - Menghapus registrasi gitlab.com
